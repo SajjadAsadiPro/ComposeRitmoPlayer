@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ریتمو پلیر</string>
+    <string name="music_channel_name">Music Playback</string>
+    <string name="Select_Playback_Speed">لطفا سرعت پخش مورد نظر را انتخاب کنید</string>
+    <string name="CustomSpeed">سفارشی</string>
+    <string name="Enter_Custom_Speed">لطفا سرعت پخش مورد نظر را وارد کنید</string>
+    <string name="SpeedEn">سرعت به عدد</string>
+    <string name="SetSpeed">تنظیم سرعت</string>
+    <string name="Programmer">طراحی و توسعه سجاد اسدی</string>
+    <string name="DeleteMusic">حذف موزیک از دستگاه شما</string>
+    <string name="TextConfDel">آیا مطمئن هستید که می‌خواهید این موزیک را حذف کنید؟</string>
+    <string name="btndelete">حذف کردن</string>
+    <string name="btncancel">لغو عملیات</string>
+</resources>

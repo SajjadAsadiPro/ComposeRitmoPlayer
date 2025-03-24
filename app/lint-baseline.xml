@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 8.9.0" type="baseline" client="gradle" dependencies="false" name="AGP (8.9.0)" variant="fatal" version="8.9.0">
+
+    <issue
+        id="UnspecifiedImmutableFlag"
+        message="Missing `PendingIntent` mutability flag"
+        errorLine1="        val pendingIntent = PendingIntent.getActivity(this, 0, notificationIntent, 0)"
+        errorLine2="                                                                                   ~">
+        <location
+            file="src/main/java/ir/sajjadasadi/RitmoPlayer/MusicPlayerService.kt"
+            line="53"
+            column="84"/>
+    </issue>
+
+</issues>

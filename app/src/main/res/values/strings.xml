@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ritmo Player</string>
+
+    <string name="music_channel_name">Music Playback</string>
+    <string name="music_channel_description" translatable="false">Music playback controls</string>
+    <!--<string name="permission_dialog_text">جهت دسترسی به موزیک های داخل حافظه گوشی شما نیازمند تایید مجوز از سوی شما هستیم.</string>
+    <string name="permission_dialog_confirm">اجازه دادن\n</string>
+    <string name="permission_dialog_title">مجوز دسترسی به موزیک ها</string>-->
+    <string name="Select_Playback_Speed">Select PlayBack Speed</string>
+    <string name="CustomSpeed">Custom</string>
+    <string name="Enter_Custom_Speed">Enter Custom Speed</string>
+    <string name="SpeedEn">Speed To number</string>
+    <string name="SetSpeed">Set Speed</string>
+    <string name="Programmer">Design And Develop By Sajjad Asadi</string>
+    <string name="DeleteMusic">Delete Music</string>
+    <string name="TextConfDel">Are you sure to delete this music?</string>
+    <string name="btndelete">Delete</string>
+    <string name="btncancel">Cancel</string>
+</resources>
